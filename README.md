@@ -66,8 +66,8 @@
 
 ---
 
-## 🏆 LeetCode Stats  
-(Share your LeetCode username to show the live badge here.)
+<--! ## 🏆 LeetCode Stats  
+(Share your LeetCode username to show the live badge here.) -->
 
 ---
 
