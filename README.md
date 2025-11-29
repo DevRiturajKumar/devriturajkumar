@@ -8,7 +8,7 @@
 
 ## 🔗 Connect with Me
 **GitHub:** https://github.com/devriturajkumar  
-**Projects:** https://projects.riturajkumar.com
+**Projects:** https://projects.rituraj.me
 
 ---
 
