@@ -1,16 +1,94 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00B200&repeat=true&width=700&height=70&lines=Hello+World%2C+welcome+to+my+profile!+👋)
 
-<!--
-**DevRiturajKumar/devriturajkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rituraj Kumar
 
-Here are some ideas to get you started:
+🚀 **Software Engineer | Backend Development | Agentic AI | Generative AI | Python | DevOps | Linux | Cloud | Docker & CI/CD | API Engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect with Me
+**GitHub:** https://github.com/devriturajkumar  
+**Projects:** https://projects.riturajkumar.com
+
+---
+
+## 🚀 Skills
+
+### 💻 Programming Languages
+- Python  
+- HTML  
+- CSS  
+- JavaScript  
+- PHP  
+
+### 🧩 Frameworks & Libraries
+- FastAPI  
+- Flask    
+- React.js  
+- WordPress  
+
+### 🌐 API Development / Tools
+- REST APIs  
+- API Engineering  
+- API Development  
+- Flask APIs  
+- FastAPI  
+- Postman API  
+- SaaS (Software as a Service)
+
+### 🗄 Databases
+- MySQL  
+- DuckDB  
+- PostGreSQL  
+
+### ☁️ Cloud & DevOps
+- Amazon Web Services (AWS)  
+- Amazon EC2  
+- Amazon S3  
+- Cloud Computing  
+- DevOps  
+- Docker  
+- CI/CD Pipelines  
+- Virtual Private Servers (VPS)  
+- Linux  
+- Nginx  
+- Apache  
+- OpenLiteSpeed
+
+### 🤖 Machine Learning / AI
+- Agentic AI  
+- Generative AI  
+- NumPy  
+- Pandas  
+- Scikit-learn  
+- Matplotlib  
+- AI Automation
+
+---
+
+## 🏆 LeetCode Stats  
+(Share your LeetCode username to show the live badge here.)
+
+---
+
+## 📦 Notable Projects  
+### 🔥 Explore all my projects:  
+👉 **https://projects.rituraj.me**
+
+---
+
+## 🛠 Favourite Tools  
+- VS Code  
+- Postman  
+- Git & GitHub  
+- Docker  
+- Linux CLI  
+- Nginx / Apache / OpenLiteSpeed 
+
+---
+
+## 🎮 Hobbies
+- Coding & Backend Projects  
+- Gaming  
+- Exploring Linux, Cloud & DevOps  
+- Learning new tech & building tools  
