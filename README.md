@@ -1,6 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00B200&repeat=true&width=700&height=70&lines=Hello+World%2C+welcome+to+my+profile!+👋)
 
-# Hi, I'm Rituraj Kumar
+# Hi, I'm Rituraj Kumar 👋
+
+🚀 I'm a **Software Engineer** with a passion for **Backend Development**, **Machine Learning**, **Generative AI**, and **Cloud technologies**. I specialize in building efficient systems and solving complex problems with modern tools and technologies.
 
 🚀 **Software Engineer | Backend Development | Machine Learning | Generative AI | Agentic AI | Python | DevOps | Linux | Cloud | Docker & CI/CD | API Engineering | WordPress**
 
