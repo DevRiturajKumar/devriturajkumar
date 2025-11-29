@@ -30,7 +30,11 @@
 
 ### 🧩 Frameworks & Libraries
 - FastAPI  
-- Flask    
+- Flask
+- Django
+- Requests
+- BeautifulSoul
+- Selenium
 - React.js  
 - WordPress  
 
@@ -45,8 +49,12 @@
 
 ### 🗄 Databases
 - MySQL  
-- DuckDB  
-- PostGreSQL  
+- DuckDB
+- MongoDB
+- PostGreSQL
+- Supabase
+- FireBase
+- Redis
 
 ### ☁️ Cloud & DevOps
 - Amazon Web Services (AWS)  
