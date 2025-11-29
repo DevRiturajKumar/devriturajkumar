@@ -7,7 +7,9 @@
 ---
 
 ## 🔗 Connect with Me
-**Portfolio:** https://riturajkumar.com
+**Portfolio:** https://riturajkumar.com  
+
+**Projects:** https://projects.rituraj.me  
 
 ---
 
