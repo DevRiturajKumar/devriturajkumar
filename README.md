@@ -13,6 +13,12 @@
 
 ---
 
+## 📦 Notable Projects  
+### 🔥 Explore all my projects:  
+👉 **https://projects.rituraj.me**
+
+---
+
 ## 🚀 Skills
 
 ### 💻 Programming Languages
@@ -64,12 +70,6 @@
 - Scikit-learn  
 - Matplotlib  
 - AI Automation
-
----
-
-## 📦 Notable Projects  
-### 🔥 Explore all my projects:  
-👉 **https://projects.rituraj.me**
 
 ---
 
