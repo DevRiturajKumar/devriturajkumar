@@ -67,7 +67,9 @@
 - Generative AI  
 - NumPy  
 - Pandas  
-- Scikit-learn  
+- Scikit-learn
+- TensorFlow
+- PyTorch
 - Matplotlib  
 - AI Automation
 
