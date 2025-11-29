@@ -2,9 +2,9 @@
 
 # Hi, I'm Rituraj Kumar 👋
 
-🚀 I'm a **Software Engineer** with a passion for **Backend Development**, **Machine Learning**, **Generative AI**, and **Cloud technologies**. I specialize in building efficient systems and solving complex problems with modern tools and technologies.
+💻 I'm a **Software Engineer** with a passion for **Backend Development**, **Machine Learning**, **Generative AI**, and **Cloud technologies**. I specialize in building efficient systems and solving complex problems with modern tools and technologies.
 
-💻 **Software Engineer | Backend Development | Machine Learning | Generative AI | Agentic AI | Python | DevOps | Linux | Cloud | Docker & CI/CD | API Engineering | WordPress**
+🚀 **Software Engineer | Backend Development | Machine Learning | Generative AI | Agentic AI | Python | DevOps | Linux | Cloud | Docker & CI/CD | API Engineering | WordPress**
 
 ---
 
