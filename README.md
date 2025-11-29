@@ -2,7 +2,7 @@
 
 # Hi, I'm Rituraj Kumar
 
-🚀 **Software Engineer | Backend Development | Machine Learning | Generative AI | Agentic AI | Python | DevOps | Linux | Cloud | Docker & CI/CD | API Engineering**
+🚀 **Software Engineer | Backend Development | Machine Learning | Generative AI | Agentic AI | Python | DevOps | Linux | Cloud | Docker & CI/CD | API Engineering | WordPress**
 
 ---
 
