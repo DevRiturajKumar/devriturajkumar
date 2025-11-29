@@ -66,11 +66,6 @@
 
 ---
 
-<--! ## 🏆 LeetCode Stats  
-(Share your LeetCode username to show the live badge here.) -->
-
----
-
 ## 📦 Notable Projects  
 ### 🔥 Explore all my projects:  
 👉 **https://projects.rituraj.me**
